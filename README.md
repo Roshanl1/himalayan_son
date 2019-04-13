@@ -1,6 +1,6 @@
-# himalayan_son
+# BOLLINGER BAND SIMPLE ALGO FOR AAPL STOCK (DOESN'T INCORPORATE LEVERAGE FOR SHORTING)
 
-# creating initialize function first
+
 
 def initialize (context):
     
